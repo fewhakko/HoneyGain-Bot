@@ -1,0 +1,15 @@
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\HoneyGainBot.exe.config
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\HoneyGainBot.exe
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\HoneyGainBot.pdb
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\MetroFramework.dll
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.Form1.resources
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.Properties.Resources.resources
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.csproj.GenerateResource.cache
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.csproj.CoreCompileInputs.cache
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.csproj.CopyComplete
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.exe
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.pdb
+C:\Users\ThePzFew\source\repos\HoneyGainBot\HoneyGainBot\obj\Release\HoneyGainBot.csprojAssemblyReference.cache
